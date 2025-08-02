@@ -1,0 +1,5 @@
+streamlit
+transformers
+torch
+yt_dlp
+numpy
